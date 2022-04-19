@@ -11,51 +11,51 @@
 
 .texto-1{
 
-width: 391px;
-height: 16px;
-left: 36px;
-top: 5px;
+    width: 391px;
+    height: 16px;
+    left: 36px;
+    top: 5px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 16px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
 
-color: #725C5C;
+    color: #725C5C;
 
 }
 
 .texto-2 {
 
-width: 643px;
-height: 26px;
-left: 36px;
-top: 23px;
+    width: 643px;
+    height: 26px;
+    left: 36px;
+    top: 23px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 22px;
-line-height: 26px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
 
 
-color: #725C5C;
+    color: #725C5C;
 }
 
 .texto-3 {
-width: 105px;
-height: 16px;
-left: 36px;
-top: 48px;
+    width: 105px;
+    height: 16px;
+    left: 36px;
+    top: 48px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 16px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
 
-color: #725C5C;
+    color: #725C5C;
 
 }
 .idioma {
@@ -72,39 +72,39 @@ color: #725C5C;
 
 .bem-vindo {
 
-width: 72px;
-height: 18px;
-left: 999px;
-top: 17px;
+    width: 72px;
+    height: 18px;
+    left: 999px;
+    top: 17px;
 
-font-family: 'Quicksand';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 18px;
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
 
 
-text-align: right;
+    text-align: right;
 
-color: #333333;
+    color: #333333;
 
 }
 .email {
     width: 163px;
-height: 15px;
-left: 908px;
-top: 36px;
+    height: 15px;
+    left: 908px;
+    top: 36px;
 
-font-family: 'Quicksand';
-font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 15px;
-/* identical to box height */
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+ 
 
-text-align: right;
+    text-align: right;
 
-color: #333333;
+    color: #333333;
 
 }
 .foto-perfil {
@@ -437,7 +437,7 @@ color: #333333;
 
 }
 .resumo2 {
-    width: 1250px;
+    width: 1127px;
     height: 45px;
     left: 0px;
     top: 542px;
